@@ -2551,4 +2551,28 @@
     <param pos="0" name="service.certainty" value="0.5"/>
   </fingerprint>
 
+  <fingerprint pattern="^5e966bb5036dc2624a0187a91e59d3dd">
+    <description>ZTE</description>
+    <example>5104b4e1fd4d2ab80f0060272689391a</example>
+    <param pos="0" name="service.vendor" value="ZTE"/>
+    <param pos="0" name="service.product" value="Webserver"/>
+    <param pos="0" name="service.certainty" value="0.5"/>
+  </fingerprint>
+  
+  <fingerprint pattern="^c5321a0d5cd56dcc2ea575a12958ef91">
+    <description>Ivanti Service Manager</description>
+    <example>5104b4e1fd4d2ab80f0060272689391a</example>
+    <param pos="0" name="service.vendor" value="Ivanti"/>
+    <param pos="0" name="service.product" value="Service Manager"/>
+    <param pos="0" name="service.certainty" value="0.5"/>
+  </fingerprint>
+
+    <fingerprint pattern="^2981503b195488ac17d05dcf18615cd1">
+    <description>Ivanti General</description>
+    <example>5104b4e1fd4d2ab80f0060272689391a</example>
+    <param pos="0" name="service.vendor" value="Ivanti"/>
+    <param pos="0" name="service.product" value="General"/>
+    <param pos="0" name="service.certainty" value="0.5"/>
+  </fingerprint>
+  
 </fingerprints>
